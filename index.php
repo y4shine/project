@@ -17,7 +17,7 @@
     <div class="header_resize">
       <div class="menu_nav">
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
           <li><a href="support.html">Support</a></li>
           <li><a href="about.html">About Us</a></li>
           <li><a href="blog.html">Blog</a></li>

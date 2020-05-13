@@ -25,7 +25,7 @@
         </ul>
       </div>
       <div class="logo">
-        <h1><a href="index.html">HOSi<span>.org</span></a> <small>your future is on your palm.</small></h1>
+        <h1><a href="index.php">HOSi<span>.org</span></a> <small>your future is on your palm.</small></h1>
       </div>
       <div class="clr"></div>
     </div>

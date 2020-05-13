@@ -11,7 +11,7 @@ html, .main {
 	margin:0;
 }
 .main {
-	background:#f3f1f1 url(images/header_bg.jpg) repeat-x center 11px;
+	background:#000 url(images/.jpg) repeat-x center 11px;
 }
 .clr {
 	clear:both;
@@ -88,6 +88,7 @@ a.com span {
 	padding:0;
 }
 .header {
+    background-color:green;
 }
 .header_resize {
 	margin:0 auto;

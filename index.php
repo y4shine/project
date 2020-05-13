@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>Hosi.org</title>
@@ -34,18 +34,18 @@
     <div class="content_resize">
       <div class="mainbar">
         <div class="article">
-          <h2><span>Template</span> License</h2>
+          <h2><span>Hosi</span> YFYP </h2>
           <div class="clr"></div>
-          <p><span class="date">On 11 sep 2018</span> Posted by <a href="#">Owner</a> &nbsp;|&nbsp; Filed under <a href="#">templates</a>, <a href="#">internet</a></p>
-          <img src="images/img1.jpg" width="625" height="205" alt="" />
+          <p><span class="date">On 11 sep 2020</span> Posted by <a href="#">Owner</a> </p>
+          <img src="images/f.jpg" width="625" height="405" alt="" />
           <p>This is a free CSS website template by CoolWebTemplates.net. This work is distributed under the Creative Commons Attribution 3.0 License, which means that you are free to use it for any personal or commercial purpose provided you leave the credit links in the template footer intact.</p>
           <p class="spec"><a href="#" class="rm">Read more &raquo;</a> <a href="#" class="com"><span>11</span> Comments</a></p>
         </div>
         <div class="article">
-          <h2><span>Future</span> technology</h2>
+          <h2><span>HOSI</span> YFYP</h2>
           <div class="clr"></div>
-          <p><span class="date">On 29 aug 2010</span> Posted by <a href="#">Owner</a> &nbsp;|&nbsp; Filed under <a href="#">templates</a>, <a href="#">internet</a></p>
-          <img src="images/img2.jpg" width="625" height="205" alt="" />
+          <p><span class="date">On 29 aug 2020</span> Posted by <a href="#">Owner</a> </p>
+          <img src="images/f.jpg" width="625" height="405" alt="" />
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. <a href="#">Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu posuere nunc justo tempus leo.</a> Donec mattis, purus nec placerat bibendum, dui pede condimentum odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. Curabitur vel urna. In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. Cras id urna. Morbi tincidunt, orci ac convallis aliquam.</p>
           <p class="spec"><a href="#" class="rm">Read more &raquo;</a> <a href="#" class="com"><span>7</span> Comments</a></p>
         </div>
@@ -97,7 +97,7 @@
     <div class="fbg_resize">
       <div class="col c1">
         <h2><span>Image Gallery</span></h2>
-        <a href="#"><img src="images/pix1.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix2.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix3.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix4.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix5.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix6.jpg" width="58" height="58" alt="" /></a> </div>
+        <a href="#"><img src="images/f.jpg" width="58" height="58" alt="" /></a> </a> </div>
       <div class="col c2">
         <h2><span>Lorem Ipsum</span></h2>
         <p>Lorem ipsum dolor<br />
@@ -106,10 +106,10 @@
       <div class="col c3">
         <h2><span>Contact</span></h2>
         <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue.</p>
-        <p><a href="#">support@yoursite.com</a></p>
+        <p><a href="#">hosi@yoursite.com</a></p>
         <p>+1 (123) 444-5677<br />
           +1 (123) 444-5678</p>
-        <p>Address: 123 TemplateAccess Rd1</p>
+        <p>Address: 123 tz Rd1</p>
       </div>
       <div class="clr"></div>
     </div>
